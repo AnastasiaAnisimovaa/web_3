@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\pages\\about",
+    "\\src\\shared",
+    "\\src\\widgets",
+    "\\src\\widgets\\map\\ui",
+    "\\src\\widgets\\site-search",
+    "\\src\\widgets\\site-search\\ui",
+    "\\src\\widgets\\site-search\\ui\\organism"
+  ],
+  "SelectedNode": "\\src\\widgets\\equipment-list\\ui\\organisms\\filter.tsx",
+  "PreviewInSolutionExplorer": false
+}
