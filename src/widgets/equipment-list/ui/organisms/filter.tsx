@@ -6,7 +6,7 @@ import { FileInteraction } from '../molecules';
 
 interface FilterProps {
   onSearch: (searchTerm: string) => void;
-  onCategoryChange: (categoryId: number | null) => void; // Изменено на number
+  onCategoryChange: (categoryId: number | null) => void; 
 }
 
 export const Filter: React.FC<FilterProps> = ({ onSearch, onCategoryChange }) => {

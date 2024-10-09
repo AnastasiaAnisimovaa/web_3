@@ -21,9 +21,9 @@ export const EquipmentList: React.FC = () => {
         // Логика фильтрации по категории
         let matchesCategory = true;
         if (selectedCategoryId === 2) { // Устаревающие
-            matchesCategory = getType(equipment.softwareEndDate) === Types.warning;
+            matchesCategory = getType(equipment.sowftwareEndDate) === Types.warning;
         } else if (selectedCategoryId === 3) { // Устаревшие
-            matchesCategory = getType(equipment.softwareEndDate) === Types.alert;
+            matchesCategory = getType(equipment.sowftwareEndDate) === Types.alert;
         }
 
         return matchesSearch && matchesCategory;

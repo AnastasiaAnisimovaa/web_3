@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\app",
+    "\\src\\pages",
     "\\src\\pages\\about",
-    "\\src\\shared",
+    "\\src\\pages\\about\\contacts",
     "\\src\\widgets",
-    "\\src\\widgets\\map\\ui",
-    "\\src\\widgets\\site-search",
-    "\\src\\widgets\\site-search\\ui",
-    "\\src\\widgets\\site-search\\ui\\organism"
+    "\\src\\widgets\\equipment-list",
+    "\\src\\widgets\\equipment-list\\ui",
+    "\\src\\widgets\\equipment-list\\ui\\organisms",
+    "\\src\\widgets\\site-search"
   ],
-  "SelectedNode": "\\src\\widgets\\equipment-list\\ui\\organisms\\filter.tsx",
+  "SelectedNode": "\\src\\widgets\\equipment-list\\ui\\organisms\\equipment-list.tsx",
   "PreviewInSolutionExplorer": false
 }
