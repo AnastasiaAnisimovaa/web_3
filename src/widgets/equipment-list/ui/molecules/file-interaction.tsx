@@ -13,6 +13,7 @@ export const FileInteraction = () => {
 
   return (
     <Container>
+      
       <Link onClick={() => exportEqupment(equpmentList)}>Экспорт</Link>
       <Link onClick={() => printEqupment(equpmentList)}>Печать</Link>
       <AdditionalInfo>{additionalInfo}</AdditionalInfo> {/* Добавленная строка с настроенной шириной */}
